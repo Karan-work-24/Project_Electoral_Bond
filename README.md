@@ -27,3 +27,21 @@ This dashboard serves various purposes, including:
 - **Investigating potential cases of corruption:** Large donations from companies with unknown ownership or limited profits could be flagged for further investigation.
 - **Analyzing trends in political funding:** The data can reveal how political funding has changed over the years and which parties are receiving the most money.
 - **Identifying potential conflicts of interest:** Donations from companies that have business dealings with the government could raise concerns about conflicts of interest.
+
+### Additional Resources
+
+- **Data Sources:**
+  - Party Data PDF
+  - Donor Data PDF
+- **POWER BI File:** The repository also includes a Power BI file for live interaction with the Electoral Bond Data dashboard.
+- **Images Snapshot of Interactive Dashboard:**
+  - Bond Analysis using funnel chart
+  - Bond Analysis
+  - Decomposition Tree Analysis
+  - Heat Map Based Analysis
+  - Year Analysis
+
+## LinkedIn Post
+
+For a video demonstration of the dashboard, please refer to the following LinkedIn post:
+[LinkedIn Video Post]
