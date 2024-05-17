@@ -27,7 +27,7 @@ For a video demonstration of the dashboard, please refer to the following Linked
 2. [Data Source](#data-source)
 3. [Tools Used](#tools-used)
 4. [Data Preparation](#data-preparation)
-5. [Insights](#insights)
+5. [Data Displayed summary](#DataDisplayedsummary)
 6. [Recommendations](#recommendations)
 
 # Project Overview
@@ -47,7 +47,7 @@ Here's a quick rundown of the steps taken in the project:
 4. **Data Visualization (Dashboard)**: Created visually compelling dashboards to make complex data easily understandable.
 5. **Insights**: Unearthed some fascinating findings!
 
-# Insights Summary
+# Data Displayed summary
 
 **Company Donations:**
 - Total amount donated by each company in various denominations (Rs. 1000, Rs. 1 Lakh, Rs. 10 Lakh, Rs. 1 Crore) across different years (2019-2024).
