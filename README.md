@@ -2,6 +2,12 @@
 ## Electoral Bond Data Dashboard
 
 This repository contains a screenshot of an Electoral Bond Data dashboard, based on a Supreme Court order mandating transparency. The dashboard provides insights into the usage of electoral bonds in India.
+# Table of Contents
+1. [Data Displayed](#Data-Displayed)
+2. [Potential Uses](#Potential-Uses)
+3. [Additional Resources](#Additional-Resources)
+4. [LinkedIn Post](#LinkedInPost)
+
 
 ### Data Displayed
 
