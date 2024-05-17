@@ -9,7 +9,7 @@ In this repository, you will find the following:
 - **Data Sources:**
   - Party Data PDF
   - Donor Data PDF
-- **Power BI File:** The repository also includes a Power BI file for live interaction with the Electoral Bond Data dashboard.
+- **Power BI File:** Please connect over karan.gupta.wk24@gmail.com for File and live interaction of dashboard.
 - **Images Snapshot of Interactive Dashboard:**
   - [Bond Analysis using funnel chart](https://github.com/Karan-work-24/Project_Electoral_Bond/blob/main/Bond%20Project/Bond%20Analysis%20using%20funnel%20chart.png)
   - [Bond Analysis](https://github.com/Karan-work-24/Project_Electoral_Bond/blob/main/Bond%20Project/Bond%20Analysis.png)
