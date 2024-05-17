@@ -41,12 +41,12 @@ This dashboard serves various purposes, including:
   - Donor Data PDF
 - **POWER BI File:** The repository also includes a Power BI file for live interaction with the Electoral Bond Data dashboard.
 - **Images Snapshot of Interactive Dashboard:**
-  - Bond Analysis using funnel chart
-  - Bond Analysis
-  - Decomposition Tree Analysis
-  - Heat Map Based Analysis
-  - Year Analysis
-- **Analysis Presentation in PDF format** 
+  - [Bond Analysis using funnel chart](https://github.com/Karan-work-24/Project_Electoral_Bond/blob/main/Bond%20Project/Bond%20Analysis%20using%20funnel%20chart.png)
+  - [Bond Analysis](https://github.com/Karan-work-24/Project_Electoral_Bond/blob/main/Bond%20Project/Bond%20Analysis.png)
+  - [Decomposition Tree Analysis](https://github.com/Karan-work-24/Project_Electoral_Bond/blob/main/Bond%20Project/Decomposition%20Tree%20Analysis.png)
+  - [Heat Map Based Analysis](https://github.com/Karan-work-24/Project_Electoral_Bond/blob/main/Bond%20Project/Heat%20Map%20Based%20Analysis.png)
+  - [Year Analysis](https://github.com/Karan-work-24/Project_Electoral_Bond/blob/main/Bond%20Project/Year%20analysis.png)
+- **[Analysis Presentation in PDF format](https://github.com/Karan-work-24/Project_Electoral_Bond/blob/main/Bond%20Project/Bond-Analysis.pdf)** 
 
 ## LinkedIn Post
 
